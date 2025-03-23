@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Blury Search",
+  "version": "1.0",
+  "description": "Custom HomePage",
+  "chrome_url_overrides": {
+    "newtab": "homepage.html"
+  },
+  "permissions": [
+    "history"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}

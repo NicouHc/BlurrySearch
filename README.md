@@ -22,13 +22,13 @@
 
 
 ## Installation
-1. **Download the folder src.**
-2. Open your browser and navigate to **chrome://extensions**.
-3. **Enable Developer Mode** by toggling the switch in the top-right corner.
-4. Click on **"Load unpacked"**.
-5. **Select the folder** or where you extracted the extension.
-6. The extension should now be installed and active in your browser.
-
+1. **Download the latest version of BlurrySearch in** [latest realases](https://github.com/NicouHc/BlurrySearch/releases/tag/BlurrySearch)
+2. **Extract** the contents of the zip file to a folder on your computer.
+3. Open your browser and navigate to `chrome://extensions` .
+4. **Enable Developer Mode** by toggling the switch in the top-right corner.
+5. Click on **"Load unpacked"**.
+6. **Select the folder** where you extracted the extension.
+7. The extension should now be installed and active in your browser.
 
 
 ## More Info
