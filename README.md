@@ -12,12 +12,12 @@
 
 ## Preview
 
-<img src="https://i.imgur.com/MDUYPVz.png" alt="Screenshot 1" width="500"/>
-<img src="https://i.imgur.com/KPUY8Db.png" alt="Screenshot 4" width="500"/>
-<img src="https://i.imgur.com/yf665OX.png" alt="Customizable_Colors_and_Themes" width="500"/>
-<img src="https://i.imgur.com/Ti4Bhsd.png" alt="Search_Engines" width="500"/>
-<img src="https://i.imgur.com/7Z3IVP0.png" alt="History" width="500"/>
-<img src="https://i.imgur.com/yngHYPS.png" alt="customization_2" width="500"/>
+<img src="screenshots/screenshot_1.png" alt="Screenshot 1" width="500"/>
+<img src="screenshots/screenshot_4.png" alt="Screenshot 4" width="500"/>
+<img src="screenshots/screenshot_6.png" alt="Customizable_Colors_and_Themes" width="500"/>
+<img src="screenshots/screenshot_3.png" alt="Search_Engines" width="500"/>
+<img src="screenshots/screenshot_5.png" alt="History" width="500"/>
+<img src="screenshots/screenshot_7.png" alt="customization_2" width="500"/>
 
 
 
