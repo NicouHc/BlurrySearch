@@ -12,12 +12,12 @@
 
 ## Preview
 
-<img src="screenshots/screenshot_1.png" alt="Screenshot 1" width="700"/>
-<img src="screenshots/screenshot_4.png" alt="Screenshot 4" width="700"/>
-<img src="screenshots/screenshot_3.png" alt="Search_Engines" width="700"/>
-<img src="screenshots/screenshot_5.png" alt="History" width="700"/>
-<img src="screenshots/screenshot_6.png" alt="Customizable_Colors_and_Themes" width="700"/>
-<img src="screenshots/screenshot_7.png" alt="customization_2" width="700"/>
+<img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="700"/>
+<img src="screenshots/Screenshot_4.png" alt="Screenshot 4" width="700"/>
+<img src="screenshots/Screenshot_3.png" alt="Search_Engines" width="700"/>
+<img src="screenshots/Screenshot_5.png" alt="History" width="700"/>
+<img src="screenshots/Screenshot_6.png" alt="Customizable_Colors_and_Themes" width="700"/>
+<img src="screenshots/Screenshot_7.png" alt="customization_2" width="700"/>
 
 
 
