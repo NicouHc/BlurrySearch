@@ -21,8 +21,14 @@
 
 ## FAQ
 - To open the **personalization menu**, go to the bottom right corner of the screen and click the settings button.
-- To open **History**, click the logo.
+- To open **History**, click the smile logo.
 
+
+- if you have any question you can join our [**Discord**](https://discord.com/invite/63EUyQBZPm) -  Buy me a coffe [**Paypal❤️**](https://www.paypal.com/donate/?hosted_button_id=UBDDRKEZ4XABE)
+
+
+<img src="https://i.imgur.com/L3DwQJl.gif" alt="bear" width="120px"/>
+ 
 
 ## Preview
 <img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="700"/>
@@ -31,12 +37,3 @@
 <img src="screenshots/Screenshot_5.png" alt="History" width="700"/>
 <img src="screenshots/Screenshot_6.png" alt="Customizable_Colors_and_Themes" width="700"/>
 <img src="screenshots/Screenshot_7.png" alt="customization_2" width="700"/>
-
-## More Info
- 
-  - if you have any question you can join our [Discord](https://discord.com/invite/63EUyQBZPm) ❤️
-  - Buy me a coffe: [Paypal](https://www.paypal.com/donate/?hosted_button_id=UBDDRKEZ4XABE)
-
-  <img src="https://i.imgur.com/L3DwQJl.gif" alt="bear" width="120px"/>
- 
-
