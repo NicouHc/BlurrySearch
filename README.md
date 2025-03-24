@@ -11,7 +11,7 @@
 - **!Bangs:** Use quick search shortcuts similar to DuckDuckGo for faster access to various services.
 
 ## Installation
-1. **Download the latest version of BlurrySearch in** [latest realases](https://github.com/NicouHc/BlurrySearch/releases/tag/BlurrySearch)
+1. **Download** the latest version of BlurrySearch in [**latest realases**](https://github.com/NicouHc/BlurrySearch/releases/tag/BlurrySearch)
 2. **Extract** the contents of the zip file to a folder on your computer.
 3. Open your browser and navigate to `chrome://extensions` .
 4. **Enable Developer Mode** by toggling the switch in the top-right corner.
