@@ -10,17 +10,6 @@
 - **Custom Search Engines:** Add and manage search engines tailored to your needs.
 - **!Bangs:** Use quick search shortcuts similar to DuckDuckGo for faster access to various services.
 
-## Preview
-
-<img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="700"/>
-<img src="screenshots/Screenshot_4.png" alt="Screenshot 4" width="700"/>
-<img src="screenshots/Screenshot_3.png" alt="Search_Engines" width="700"/>
-<img src="screenshots/Screenshot_5.png" alt="History" width="700"/>
-<img src="screenshots/Screenshot_6.png" alt="Customizable_Colors_and_Themes" width="700"/>
-<img src="screenshots/Screenshot_7.png" alt="customization_2" width="700"/>
-
-
-
 ## Installation
 1. **Download the latest version of BlurrySearch in** [latest realases](https://github.com/NicouHc/BlurrySearch/releases/tag/BlurrySearch)
 2. **Extract** the contents of the zip file to a folder on your computer.
@@ -30,6 +19,18 @@
 6. **Select the folder** where you extracted the extension.
 7. The extension should now be installed and active in your browser.
 
+## FAQ
+- To open the **personalization menu**, go to the bottom right corner of the screen and click the settings button.
+- To open **History**, click the logo.
+
+
+## Preview
+<img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="700"/>
+<img src="screenshots/Screenshot_4.png" alt="Screenshot 4" width="700"/>
+<img src="screenshots/Screenshot_3.png" alt="Search_Engines" width="700"/>
+<img src="screenshots/Screenshot_5.png" alt="History" width="700"/>
+<img src="screenshots/Screenshot_6.png" alt="Customizable_Colors_and_Themes" width="700"/>
+<img src="screenshots/Screenshot_7.png" alt="customization_2" width="700"/>
 
 ## More Info
  
@@ -38,3 +39,4 @@
 
   <img src="https://i.imgur.com/L3DwQJl.gif" alt="bear" width="120px"/>
  
+
